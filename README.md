@@ -10,6 +10,9 @@ chmod +x 'path/to/py_script.py' #Enter the unique file location of the python sc
 
 chmod +x 'path/to/Cover Letter Generator.sh' #Enter the unique file location of the shell script
 
+
+Mac & Windows:
+
 pip install openai
 
 pip install PyPDF2
