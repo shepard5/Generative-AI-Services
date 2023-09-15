@@ -38,7 +38,7 @@ job_description_element = soup.find('div', class_='description__text')
 job_description = job_description_element.get_text(strip=True)                                    
                                                                                        
 
-openai.api_key = "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"                
+openai.api_key = "your OpenAI API key here"                
                                                                                        
 response = openai.ChatCompletion.create(                                                
     model="gpt-3.5-turbo",                
