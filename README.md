@@ -31,7 +31,7 @@ pip install docx
 
 5) Enter the LinkedIn job URL – Make sure to copy the link following this screenshot. Sometimes won’t work if using the URL at the top of the browser.
 
-![Picture1](https://github.com/shepard5/You-re-Covered/assets/108085853/2f16ccda-5645-4d9e-988d-6894c4a7efff)
+![Picture1](https://github.com/shepard5/You-re-Covered/assets/108085853/7db44e5b-4e2f-46b2-8b33-48f6a5cae4f9)
 
 6) Give it a few seconds then enter your name etc (only used for the header of the cover letter) - Once those details are entered the cover letter will appear in the same folder.
 
