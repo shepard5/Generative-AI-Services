@@ -1,4 +1,4 @@
-# 'You're Covered'
+# You're Covered
 AI Generated Cover Letter Drafts
 
 Download the latest version of Python: https://www.python.org/downloads/
