@@ -5,13 +5,13 @@ Download the latest version of Python: https://www.python.org/downloads/
 
 1) Mac: open Terminal and type in the following commands:
 
-chmod +x 'path/to/py_script.py' #Enter the unique file location of the python script
-chmod +x 'path/to/Cover Letter Generator.sh' #Enter the unique file location of the shell script
-pip install openai
-pip install PyPDF2
-pip install requests
-pip install bs4
-pip install docx
+chmod +x 'path/to/py_script.py' #Enter the unique file location of the python script/n
+chmod +x 'path/to/Cover Letter Generator.sh' #Enter the unique file location of the shell script/n
+pip install openai/n
+pip install PyPDF2/n
+pip install requests/n
+pip install bs4/n
+pip install docx/n
 
 2) Open ‘Cover Letter Generator.’
 
