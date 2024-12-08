@@ -1,5 +1,4 @@
-# You're Covered
-AI Generated Cover Letter Drafts
+AI Generated Document Drafting 
 
 Download the latest version of Python: https://www.python.org/downloads/
 
@@ -27,13 +26,13 @@ pip install docx
 
 3) Open ‘Cover Letter Generator.’
 
-4) A file window will open, select resume of your choice. Must be PDF format.
+4) A file window will open, select context. Must be PDF format.
 
-5) Enter the LinkedIn job URL – Make sure to copy the link following this screenshot. Sometimes won’t work if using the URL at the top of the browser.
+5) Enter the LinkedIn job URL, if for job application related files – Make sure to copy the link following this screenshot. Sometimes won’t work if using the URL at the top of the browser.
 
 ![Picture1](https://github.com/shepard5/You-re-Covered/assets/108085853/7db44e5b-4e2f-46b2-8b33-48f6a5cae4f9)
 
-6) Give it a few seconds then enter your name etc (only used for the header of the cover letter) - Once those details are entered the cover letter will appear in the working directory i.e. the same folder the script is run from.
+6) Give it a few seconds then enter your name etc (for added context) - Once those details are entered the cover letter will appear in the working directory i.e. the same folder the script is run from.
 
 7) (Optional) Rename or move cover letters to a different folder after they’re made if you want them for later - otherwise when the script runs again it’ll be overwritten with whatever new cover letter you’re trying to make.
 
